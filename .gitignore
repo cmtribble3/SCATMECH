@@ -3,6 +3,20 @@
 *.htm#
 *.htm#
 *.htm#
+.idea/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+code/*.o
+code/*/*.o
+code/*.a
+code/Makefile.sub
+code/BRDFProg/BRDFProg
+code/RCWProg/RCWProg
+code/ReflectProg/ReflectProg
+code/MieProg/MieProg
 code/crossgrating - Copy.cpp
 code/crossgrating - Copy.h
 code/crossgrating2 - Copy.cpp
